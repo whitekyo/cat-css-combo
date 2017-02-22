@@ -39,7 +39,7 @@ function analysis_text(content, current_file_path, target_file_path){
 
 //创建目标地址
 function create_target_src(){
-    
+
 }
 
 function deal_relative_path(content, path){
